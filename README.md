@@ -50,6 +50,7 @@ El resultado será:
 
 ## Consideraciones
 
+- Ten en cuenta que la página de portada debe ser la página 1
 - El XCF original no se modifica: el complemento trabaja con copias temporales.
 - Las capas se procesan de arriba hacia abajo, según aparecen en GIMP.
 - Si el ancho es impar, la página derecha tendrá un píxel más que la izquierda.
